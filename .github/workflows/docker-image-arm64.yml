@@ -1,4 +1,4 @@
-name: Publish Docker image (arm64) v2
+name: Docker image (arm64)
 
 on:
   push:
